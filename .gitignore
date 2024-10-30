@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+/bin
+/dev
+/etc
+/include
+/lib
+/share
+*.cfg
+.DS_Store
